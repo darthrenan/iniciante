@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(1, 76, 99);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h3 {
+  text-decoration-style: double;
+  text-align: left;
+}
+
+#name {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #003a00;
+  border: solid 6px darkgreen;
+  background-color: darkgoldenrod;
+  width: 455px;
+  margin-bottom: 0px;
+}
+
+#historia {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #003a00;
+  border: solid 6px darkgreen;
+  background-color: darkgoldenrod;
+  width: 984px;
+  height: 42px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-left: 10px;
+  margin-bottom: 0px;
+}
+
+#maomao {
+  width: 450px;
+  border: solid 6px black;
+}
+
+.persona {
+  color: #003a00;
+  background-color: darkorange;
+  line-height: 30px;
+  text-align: justify;
+  font-size: 21px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 6px solid rgb(0, 0, 0);
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 15px 15px 15px 15px;
+  width: 963px;
+}
+
+h4 {
+  margin-top: 0px;
+  border: 2px solid black;
+  background-color: rgb(240, 200, 0);
+  width: 455px;
+  margin-left: 5px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 12px;
+}
+
+audio {
+  width: 990px;
+  padding: 0 auto 0 auto;
+  margin-left: 35px;
+  margin-bottom: 55px;
+  border: solid rgb(0, 0, 0) 2px;
+  background-color: rgb(255, 255, 255);
+}
+#olhos {
+  margin-left: 6px;
+  width: 450px;
+  border: solid 6px black;
+}
